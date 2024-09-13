@@ -1,0 +1,25 @@
+{
+  "role-list" : "Role List",
+  "role-create": "Role Create",
+  "role-edit": "Role Edit",
+  "role-delete": "Role Delete",
+  
+  "admin-list": "Admin List",
+  "admin-create": "Admin Create",
+  "admin-edit": "Admin Edit",
+  "admin-delete": "Admin Delete",
+  
+  "category-list": "Category List",
+  "category-create": "Category Create",
+  "category-edit": "Category Edit",
+  "category-delete": "Category Delete",
+  
+  "settings-list": "Settings List",
+  "settings-edit": "Settings Edit",
+  
+  "profile-list": "Profile List",
+  "profile-settings": "Profile settings",
+  "profile-edit-basicInfo": "Profile Edit BasicInfo",
+  "profile-edit-email": "Profile Edit Email",
+  "profile-edit-password": "Profile Edit Password"
+}
