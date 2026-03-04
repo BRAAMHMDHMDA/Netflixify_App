@@ -1,7 +1,7 @@
 [//]: # (<h1 align="center" style="font-size: 3rem; letter-spacing: 0.1em; margin-bottom: 0;">)
 
 ### 🎥 Project Demo
-[![Project Demo](https://brightgaza.com/_next/image?url=https%3A%2F%2Fapi.taqatgaza.com%2Fstorage%2Fuploads%2Fportfolio%2F10837%2FcO1elG6DvVttL6IcRgWB.png&w=1920&q=75)](https://www.youtube.com/watch?v=Z6VrbiO6jZ8)
+[![Project Demo](https://media.licdn.com/dms/image/v2/D4D2DAQHSL1yfRRXUsA/profile-treasury-image-shrink_800_800/B4DZv_qQUDI8Ac-/0/1769520832009?e=1773190800&v=beta&t=UD6l7EaV6A8FAauges-PuLHccL3QGC6Q2yubhtLFduU)](https://www.youtube.com/watch?v=Z6VrbiO6jZ8)
 
 
 [//]: # (    <a href="" style="text-decoration: none; color: white;">)
@@ -77,7 +77,8 @@
 
 ## Hosting Note
 > **Free Hosting Notice**: This app is hosted on a free service, which may cause some issues and slowdowns due to its limitations. For an optimized experience, consider supporting us to upgrade to premium hosting!  
-> **Live Preview**: [http://netflixify.great-site.net/home](http://netflixify.great-site.net/home)
+> **Live Preview**: [Netflixify App](https://netflixify-mis2.onrender.com/)
+> **Live Preview**: [Netflixify App Dashboard](https://netflixify-mis2.onrender.com/dashboard)
 
 > **Note**: يتوفر وصف باللغة العربية أسفل النسخة الإنجليزية (An Arabic description is available below the English version).
 
